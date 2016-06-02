@@ -1,9 +1,9 @@
 public class failer{
 
 
-PUBLIC static void MAIN(){
+public static void main(String[] args){
 
-return 100;
+
 }
 
 }
